@@ -5,7 +5,7 @@ Spyder Editor
 This is a temporary script file.
 """
 
-from selenium.common.exceptions import NoSuchElementException, ElementClickInterceptedException
+from selenium.common.exceptions import NoSuchElementException, ElementClickInterceptedException #seleniumIsnotavailable
 from selenium import webdriver
 import time
 import pandas as pd
